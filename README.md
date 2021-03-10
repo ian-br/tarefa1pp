@@ -1,2 +1,2 @@
 # tarefa1pp
-A.D.S. - Práticas de Programação
+Práticas de Programação
